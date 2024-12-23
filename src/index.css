@@ -1,0 +1,25 @@
+/* src/index.css */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+.d-flex {
+  display: flex !important;
+}
+
+.min-vh-100 {
+  min-height: 100vh !important;
+}
+
+.mt-auto {
+  margin-top: auto !important;
+}
